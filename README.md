@@ -30,7 +30,7 @@ Go [here](https://github.com/matthias-wright/ghorbu-wallet/releases).
 
 ## Build
 1. Install the prerequisites: https://tauri.app/v1/guides/getting-started/prerequisites
-2. `git clone https://github.com/matthias-wright/ghorbu-wallet`
+2. `git clone https://github.com/matthias-wright/ghorbu-wallet.git`
 3. `cd ghorbu-wallet`
 4. `npm install`
 5. `cargo install tauri-cli`
