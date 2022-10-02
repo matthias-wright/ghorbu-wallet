@@ -1,10 +1,10 @@
 [package]
-name = "app"
+name = "ghorbu-wallet"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+description = "A cross-platform desktop HD wallet for Bitcoin."
+authors = ["Matthias Wright"]
+license = "GPL-3.0"
+repository = "https://github.com/matthias-wright/ghorbu-wallet"
 default-run = "app"
 edition = "2021"
 rust-version = "1.57"
